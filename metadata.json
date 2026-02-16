@@ -12,7 +12,8 @@
         ],
         "Id": "switchtiledwindow",
         "Version": "1.0",
-        "License": "GPLv3"        
+        "License": "GPLv3",
+        "Website": "https://github.com/SkyWa7ch3r/kwin-switchtiledwindow"
     },
     "X-Plasma-API": "javascript",
     "X-Plasma-MainScript": "code/main.js",
