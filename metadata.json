@@ -1,0 +1,20 @@
+{
+    "KPlugin": {
+        "Name": "Switch Tiled Window",
+        "Description": "Switches to the next active tiled window on the current screen",
+        "Icon": "preferences-system-windows",
+        
+        "Authors": [
+            {
+                "Email": "joel.g.w.dunstan@gmail.com",
+                "Name": "Joel Dunstan"
+            }
+        ],
+        "Id": "switchtiledwindow",
+        "Version": "1.0",
+        "License": "GPLv3"        
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js",
+    "KPackageStructure": "KWin/Script"
+}
