@@ -1,7 +1,7 @@
 registerShortcut(
     "Switch Tiled Window", 
     "Switch to the next window in the same tile zone", 
-    "Meta+Shift+T", 
+    "Meta+Alt+Space", 
     () => {
         const currentWindow = workspace.activeWindow;
         

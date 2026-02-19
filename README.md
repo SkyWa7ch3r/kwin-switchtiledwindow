@@ -18,7 +18,7 @@ journalctl --user -f | grep -i kwin
 ```
 To see the script output for debugging.
 
-Press <kbd>Meta/Super + Shift + T</kbd> to switch between active tiled windows on the current screen.
+Press <kbd>Meta/Super + Alt + Space</kbd> to switch between active tiled windows on the current screen.
 
 If you wish to make changes yourself, you can edit `main.js` and then run the following in a terminal:
 ```
